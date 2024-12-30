@@ -12,12 +12,13 @@
 
 ### Поддержать автора 💵
 evm
-0x318c679e020bFF5BBe9EeB31413dd8fC1Ae37fef
+- 0x318c679e020bFF5BBe9EeB31413dd8fC1Ae37fef
 
 sol
-C1LRf1bmALwRkZaJiR2xjqMYeh8T8HDyJ5XXgAtsJXRt
+- C1LRf1bmALwRkZaJiR2xjqMYeh8T8HDyJ5XXgAtsJXRt
 
 ton
-UQC9TuXA7knoFE5AihBecspNDG9T6sQL6Rjm3goCHJGwcwA-
+- UQC9TuXA7knoFE5AihBecspNDG9T6sQL6Rjm3goCHJGwcwA-
+
 
 Автор: @mkqch (telegram)
