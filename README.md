@@ -1,0 +1,1 @@
+# blum-adspower-script
